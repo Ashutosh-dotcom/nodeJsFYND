@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "mathjs": "^11.4.0",
+    "mongodb": "^4.12.1"
+  }
+}
